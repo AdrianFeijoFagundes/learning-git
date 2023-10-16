@@ -7,7 +7,7 @@ git init
 
 git add 
 
-git commit im "nome do commit"
+git commit -m "nome do commit"
 
 git remote add origin <link do repositório>
 	
@@ -17,4 +17,3 @@ git push -u origin main
 	
 	sobe os commits para o repositório remoto.
 
-## learning-git
